@@ -1,2 +1,1 @@
-my third commit
-Updated commit.
+my third commit updated
